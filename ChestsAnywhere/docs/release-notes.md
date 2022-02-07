@@ -2,6 +2,7 @@
 
 # Release notes
 ## Upcoming release
+* Updated for Stardew Valley 1.6.
 * Added [mod-provided API to get overlay info](README.md#mod-integrations).
 
 ## 1.21.3
