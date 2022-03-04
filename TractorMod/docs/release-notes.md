@@ -4,6 +4,7 @@
 ## Upcoming release
 * Updated for the upcoming SMAPI 4.0.0.
 * Updated for Stardew Valley 1.6.
+* Added tractor sounds (configurable).
 * Added custom buff icon + name.
 
 ## 4.15.0
