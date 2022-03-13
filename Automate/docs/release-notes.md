@@ -2,7 +2,7 @@
 
 # Release notes
 ## Upcoming release
-* Updated for Stardew Valley 1.6.
+* Updated for Stardew Valley 1.6, including support for custom floors/paths as connectors.
 * Added option to toggle whether Automate is enabled through [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098).
 * Fixed saving machine overrides through Generic Mod Config Menu.
 * Fixed error when a geode crusher produces a [golden helmet](https://stardewvalleywiki.com/Golden_Helmet).
