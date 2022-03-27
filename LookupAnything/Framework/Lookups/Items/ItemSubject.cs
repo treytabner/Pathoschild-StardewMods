@@ -403,8 +403,8 @@ namespace Pathoschild.Stardew.LookupAnything.Framework.Lookups.Items
             // fence
             if (item is Fence fence)
             {
-                int spriteID = fence.GetItemParentSheetIndex();
-                return this.GameHelper.GetObjectById(spriteID.ToString());
+                string spriteID = fence.GetItemParentSheetIndex();
+                return this.GameHelper.GetObjectById(spriteID);
             }
 
             return item;
